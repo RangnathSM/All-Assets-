@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "AllAssetsData": {
+    "Hospital": "Apolo Hospital",
+    "City": "Bengaluru",
+    "AllAssets": [
+      {
+        "asset_id": "1001",
+        "asset_name": "Smart PFT USB",
+        "asset_code": "Ab123",
+        "serial_no": "SL34456TR",
+        "model_no": "MOD345",
+        "department": "Radiology",
+        "department_id": "1",
+        "asset_type": "Scanner",
+        "asset_status": "Working",
+        "manufacturer": "BPL",
+        "sold_by": "Medpick.in",
+        "date_of_purchase": "22-07-2023",
+        "price": "60000",
+        "warranty_date": "22-06-2023",
+        "warranty_months": "24",
+        "warranty_exp_date": "22-06-2025",
+        "asset_imgs": "https://www.gehealthcare.com/-/jssmedia/gehc/us/images/specialties/radiology-latest-2021/story-carousel_new/gehc_ab_carousel03_d-1638x810.jpg?h=810&iar=0&w=1638&rev=-1&hash=8435404B67D535869AC56CCF23684A0B",
+        "warranty_img": "https://img.freepik.com/premium-vector/gold-guarantee-sign-2-years-warranty-label_118124-5308.jpg",
+        "qr_code_img": "https://img.freepik.com/premium-vector/vector-qr-code-sample-isolated_255502-275.jpg\r"
+      },
+      {
+        "asset_id": "1002",
+        "asset_name": "PFT USB",
+        "asset_code": "Ab356",
+        "serial_no": "BL34456TR",
+        "model_no": "MOD355",
+        "department": "ECG",
+        "department_id": "2",
+        "asset_type": "Monitor",
+        "asset_status": "Not Working",
+        "manufacturer": "APL",
+        "sold_by": "Medpick.in",
+        "date_of_purchase": "20-07-2023",
+        "price": "60000",
+        "warranty_date": "22-06-2023",
+        "warranty_months": "24",
+        "warranty_exp_date": "22-06-2025",
+        "asset_imgs": "",
+        "warranty_img": "https://img.freepik.com/premium-vector/gold-guarantee-sign-2-years-warranty-label_118124-5308.jpg",
+        "qr_code_img": "https://img.freepik.com/premium-vector/vector-qr-code-sample-isolated_255502-275.jpg\r"
+      },
+      {
+        "asset_id": "1003",
+        "asset_name": "PFT USB",
+        "asset_code": "Ab356",
+        "serial_no": "PL34456TR",
+        "model_no": "MOD355",
+        "department": "ECG",
+        "department_id": "2",
+        "asset_type": "Monitor",
+        "asset_status": "Not Working",
+        "manufacturer": "APL",
+        "sold_by": "Medpick.in",
+        "date_of_purchase": "18-07-2023",
+        "price": "60000",
+        "warranty_date": "22-06-2023",
+        "warranty_months": "24",
+        "warranty_exp_date": "22-06-2025",
+        "asset_imgs": "",
+        "warranty_img": "https://img.freepik.com/premium-vector/gold-guarantee-sign-2-years-warranty-label_118124-5308.jpg",
+        "qr_code_img": "https://img.freepik.com/premium-vector/vector-qr-code-sample-isolated_255502-275.jpg\r"
+      }
+    ]
+  }
+}
